@@ -1,0 +1,3 @@
+<!-- insert_top '[data-hook="admin_products_index_search"]' -->
+
+<%= render partial: 'spree/admin/products/index_search_fields' %>

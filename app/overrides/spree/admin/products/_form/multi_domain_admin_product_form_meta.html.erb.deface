@@ -1,0 +1,3 @@
+<!-- insert_bottom '[data-hook="admin_product_form_meta"]' -->
+
+<%= render partial: "spree/admin/products/stores" %>
